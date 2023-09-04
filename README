@@ -1,0 +1,13 @@
+README Four-Shots
+
+Overview:
+  This game was created as a final project for the Harvard CS50 online course. It is written in 
+  Lua through the LÖVE 2D Game Engine. It is an infinite third person shooter, where the player
+  must defend themselves from increasingly powerful waves of enemies, by gliding, jumping, and 
+  crouching to manuever across the screen. All music and artwork is original.
+
+How to Run:
+  In order to run the program on your Mac device, go to https://love2d.org/ and download the 
+  latest version of Love2D and add it to your Applications folder. Download the zip file of this 
+  repository to your Desktop. In the terminal, type "/Applications/love.app/Contents/MacOS/love 
+  ~/desktop/CS50-Four-Shots-main" and the program should run through the Love application.
