@@ -6,6 +6,9 @@ Overview:
   must defend themselves from increasingly powerful waves of enemies, by gliding, jumping, and 
   crouching to manuever across the screen. All music and artwork is original.
 
+Note -> This repository contains all assets related to art, music, and design. To look at the code,
+        navigate to the "main.lua" file.
+
 How to Run:
   In order to run the program on your Mac device, go to https://love2d.org/ and download the 
   latest version of Love2D and add it to your Applications folder. Download the zip file of this 
